@@ -1,0 +1,8 @@
+{
+  "notice_id": "20260621_TEST01",
+  "latest_version": "12.50",
+  "title": "MusaLinea お知らせ機能テスト",
+  "message": "これは更新・お知らせ機能の動作確認用です。\nこの画面が表示されれば、news.jsonの読み込みは正常です。",
+  "button_text": "BOOTHを開く",
+  "url": "https://booth.pm/"
+}
